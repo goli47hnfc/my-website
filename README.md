@@ -1,5 +1,7 @@
-#My Website 
+# My Website 
 
 This is a really awesome website
 
-Update on master on Github before rebase
+## Repository Purpose
+
+This will be a change that conflicts with the remote side
