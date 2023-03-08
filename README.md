@@ -10,5 +10,4 @@ This will be a change that conflicts with the remote side
 Update on master on Github before rebase
 
 ## Purpose
-This is just a readme file
->>>>>>> 1dedbe8ae0051cee8ce91aaa1c71b5c27ad412ea
+More changes to the README file so I can go on with my life
